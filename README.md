@@ -1,10 +1,7 @@
-analytics-android-integration-localytics
+analytics-android-integration-swrve
 =======================================
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.segment.analytics.android.integrations/localytics/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.segment.analytics.android.integrations/localytics)
-[![Javadocs](http://javadoc-badge.appspot.com/com.segment.analytics.android.integrations/localytics.svg?label=javadoc)](http://javadoc-badge.appspot.com/com.segment.analytics.android.integrations/localytics)
-
-Localytics integration for [analytics-android](https://github.com/segmentio/analytics-android).
+Swrve integration for [analytics-android](https://github.com/segmentio/analytics-android).
 
 ## License
 
@@ -22,7 +19,7 @@ WWWWWW||WWWWWW
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Segment, Inc.
+Copyright (c) 2017 TodayTix
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
